@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pick_list: one
+  item: one
+  item_notes: MyText
+
+two:
+  pick_list: two
+  item: two
+  item_notes: MyText
